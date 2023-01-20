@@ -1,6 +1,6 @@
 # Predictive-Models-with-Regression-and-Classification-Models
 
-We will use some of the algorithms to predict rain in Australia, specifically:
+I used some of the algorithms to predict rain in Australia, specifically:
 
 1.  Linear Regression
 2.  KNN
@@ -8,7 +8,7 @@ We will use some of the algorithms to predict rain in Australia, specifically:
 4.  Logistic Regression
 5.  SVM
 
-We will evaluate our models using:
+I evaluated our models using:
 
 1.  Accuracy Score
 2.  Jaccard Index
